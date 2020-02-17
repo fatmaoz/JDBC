@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="27453718-8526-4858-ae77-fbdc12689587" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JDBC.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/java/Day6_gson/Item.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/java/Day6_gson/JsonToJavaCollections.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/java/Day6_gson/Link.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/java/Day6_gson/Link_.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/java/Day6_gson/POJO_deserialize.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/java/Day6_gson/POSTMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/java/Day6_gson/Region.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/java/Day6_gson/Spartan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/java/apitests/CBTrainingTestWithJson.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/java/apitests/HRApiTestWithJsonPath.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/java/apitests/HRApiTestWithParameters.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/java/apitests/HRApiTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/java/apitests/HRApiTestsWithPath.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/java/apitests/HamcrestMatchersApiTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/java/apitests/SpartanTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/java/apitests/SpartanTestWithJsonPath.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/java/apitests/SpartanTestWithParameters.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/java/apitests/SpartanTestWithPath.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/java/jdbctests/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/java/jdbctests/dbutildemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/java/jdbctests/dynamic_querydata.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/java/jdbctests/jdbc_examples.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/java/jdbctests/jdbc_utilexample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/java/utilities/ConfigurationReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/java/utilities/DBUtils.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Xw3RrljOzbiFuJGlkd6w3uYsro" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\JDBC\src\test\java" />
+      <recent name="C:\Users\user\Desktop\JDBC\src\main\java" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27453718-8526-4858-ae77-fbdc12689587" name="Default Changelist" comment="" />
+      <created>1581943324333</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581943324333</updated>
+    </task>
+    <servers />
+  </component>
+</project>
